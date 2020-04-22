@@ -1,0 +1,7 @@
+main: Main
+name: McPlugin
+version: 1.0
+author: jKanwischer
+api-version: 1.14
+commands:
+  test:
